@@ -1,0 +1,2 @@
+Moim zdaniem if jest wygodniejszy, lecz switch czytelniejszy. Zależy od sytuacji i wymagań w danym programie.
+Uważam, że jeżeli mamy wpisać parę razy if-elseif-elseif to lepiej zastosować w tym momencie switcha. A w innych przypadkach wystarczy if.
