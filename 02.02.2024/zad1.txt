@@ -1,0 +1,7 @@
+get:
+zalety: mozna stosowac w prostych formularzach
+wady: nie jest bezpieczny
+
+post:
+zalety: poufne przekazywanie danych, stosowane w rozbudowanych formularzach
+wady: Nie można łączyć się z parametrami,
